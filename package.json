@@ -64,6 +64,6 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "npm": "^6.4.1"
+    "npm": "^6.13.4"
   }
 }
